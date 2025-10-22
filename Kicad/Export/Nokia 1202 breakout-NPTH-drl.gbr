@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2025-10-17T16:28:32+07:00*%
+%TF.ProjectId,Nokia 1202 breakout,4e6f6b69-6120-4313-9230-322062726561,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2025-10-17 16:28:32*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentDrill*%
+%ADD10C,3.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,UNK_HOLE_0*%
+X128191100Y-84677350D03*
+%TO.C,UNK_HOLE_3*%
+X128191100Y-125317350D03*
+%TO.C,UNK_HOLE_1*%
+X168831100Y-84677350D03*
+%TO.C,UNK_HOLE_2*%
+X168831100Y-125317350D03*
+M02*

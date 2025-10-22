@@ -1,0 +1,212 @@
+(footprint "R0805"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD RESISTOR - 0805")
+	(property "Reference" "REF**"
+		(at -1.778 -1.27 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9e4ef606-0521-4abf-aefe-855974f44b17")
+		(effects
+			(font
+				(size 0.666496 0.666496)
+				(thickness 0.146304)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "R0805"
+		(at -1.778 1.778 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f4d95e7b-50a4-4b25-a38c-9fdf2e0c97ab")
+		(effects
+			(font
+				(size 0.54864 0.54864)
+				(thickness 0.06096)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0a97729-29e9-4ebb-93ec-6775fdc7454b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d571ca15-8807-453a-ba9e-0c33b04d4514")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.8542 -0.889)
+		(end 1.8542 -0.889)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "757d5d39-82e0-4cd8-a375-b4e734a4f6db")
+	)
+	(fp_line
+		(start -1.8542 0.889)
+		(end -1.8542 -0.889)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ee50d49e-0de0-4d72-a874-c3cd2f77a859")
+	)
+	(fp_line
+		(start 1.8542 -0.889)
+		(end 1.8542 0.889)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5d004b9a-a675-423d-83b3-2c8b548af115")
+	)
+	(fp_line
+		(start 1.8542 0.889)
+		(end -1.8542 0.889)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e5b01519-6d4d-437c-9614-c4738ae5cac9")
+	)
+	(fp_poly
+		(pts
+			(xy -0.1999 0.5001) (xy 0.1999 0.5001) (xy 0.1999 -0.5001) (xy -0.1999 -0.5001)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Adhes")
+		(uuid "a350a1a9-b82a-4428-8832-a283c200d98b")
+	)
+	(fp_line
+		(start -1.8143 -0.8243)
+		(end 1.8143 -0.8243)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ba0b8fbc-1abe-48f3-8e3f-0a4323420622")
+	)
+	(fp_line
+		(start -1.8143 0.8243)
+		(end -1.8143 -0.8243)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cc7ff9e6-d117-45fe-a2ba-ff9e7cef393d")
+	)
+	(fp_line
+		(start 1.8143 -0.8243)
+		(end 1.8143 0.8243)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5aefbb22-1846-4f4a-a305-1d903da238c8")
+	)
+	(fp_line
+		(start 1.8143 0.8243)
+		(end -1.8143 0.8243)
+		(stroke
+			(width 0.0508)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e25a6cbb-e5a3-4b76-9c08-022b6a5cc859")
+	)
+	(fp_line
+		(start -0.51 -0.535)
+		(end 0.51 -0.535)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "98cc6fb3-f155-4bf0-ad21-5e199777365d")
+	)
+	(fp_line
+		(start -0.51 0.535)
+		(end 0.51 0.535)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "08d168da-916b-4770-a463-351f64f8bfeb")
+	)
+	(fp_poly
+		(pts
+			(xy -1 0.65) (xy -0.4168 0.65) (xy -0.4168 -0.65) (xy -1 -0.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "3287eaf5-8a40-4dd3-8327-10e4c20d7aa1")
+	)
+	(fp_poly
+		(pts
+			(xy 0.4064 0.65) (xy 1 0.65) (xy 1 -0.65) (xy 0.4064 -0.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "83944dc4-6983-43cc-b87f-a4f4def090de")
+	)
+	(pad "1" smd rect
+		(at -1.016 0)
+		(size 1.2 1.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "e5d7e732-0479-4081-b4ea-5c724666085a")
+	)
+	(pad "2" smd rect
+		(at 1.016 0)
+		(size 1.2 1.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.0508)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "a187cbcd-0117-4da1-a8c7-88ed561803c8")
+	)
+	(embedded_fonts no)
+)
